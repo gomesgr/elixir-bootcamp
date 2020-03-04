@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**Módulo que consiste em um jogo de cartas, neste módulo se pode criar, verificar caso de existência de um "deck", entregar uma quantidade especificada de cartas, salvar essas cartas em um arquivo, e carregá-las quando necessário.**
 
 ## Installation
 
