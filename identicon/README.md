@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**TODO: Módulo que consiste em criar um "Identicon" ou seja, uma imagem gerada através de uma string recebida, espelhada a partir do eixo y em um "grid" de 5x5.**
 
 ## Installation
 
